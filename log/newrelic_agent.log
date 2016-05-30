@@ -1,0 +1,43 @@
+# Logfile created on 2016-05-30 00:46:42 -0700 by logger.rb/47272
+[2016-05-30 00:46:42 -0700 Rileys-MacBook-Air.local (14662)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-30 00:46:42 -0700 Rileys-MacBook-Air.local (14662)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-30 00:46:42 -0700 Rileys-MacBook-Air.local (14662)] INFO : Reading configuration from config/newrelic.yml (/Users/rileyscheid/Desktop/projects/grape-on-rack)
+[2016-05-30 00:46:42 -0700 Rileys-MacBook-Air.local (14662)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-30 00:46:42 -0700 Rileys-MacBook-Air.local (14662)] INFO : Environment: development
+[2016-05-30 00:46:42 -0700 Rileys-MacBook-Air.local (14662)] INFO : No known dispatcher detected.
+[2016-05-30 00:46:42 -0700 Rileys-MacBook-Air.local (14662)] INFO : Application: Demo
+[2016-05-30 00:46:42 -0700 Rileys-MacBook-Air.local (14662)] WARN : Agent configured not to send data in this environment.
+[2016-05-30 00:46:42 -0700 Rileys-MacBook-Air.local (14662)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-30 00:46:42 -0700 Rileys-MacBook-Air.local (14662)] INFO : Installing Net instrumentation
+[2016-05-30 00:46:42 -0700 Rileys-MacBook-Air.local (14662)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-30 00:46:42 -0700 Rileys-MacBook-Air.local (14662)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-30 00:46:42 -0700 Rileys-MacBook-Air.local (14662)] INFO : Finished instrumentation
+[2016-05-30 00:46:44 -0700 Rileys-MacBook-Air.local (14662)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-30 00:46:44 -0700 Rileys-MacBook-Air.local (14662)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-30 00:46:44 -0700 Rileys-MacBook-Air.local (14662)] INFO : Reading configuration from config/newrelic.yml (/Users/rileyscheid/Desktop/projects/grape-on-rack)
+[2016-05-30 00:46:44 -0700 Rileys-MacBook-Air.local (14662)] INFO : Environment: development
+[2016-05-30 00:46:44 -0700 Rileys-MacBook-Air.local (14662)] INFO : No known dispatcher detected.
+[2016-05-30 00:46:44 -0700 Rileys-MacBook-Air.local (14662)] INFO : Application: Demo
+[2016-05-30 00:46:44 -0700 Rileys-MacBook-Air.local (14662)] WARN : Agent configured not to send data in this environment.
+[2016-05-30 00:46:44 -0700 Rileys-MacBook-Air.local (14662)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-05-30 12:10:54 -0700 Rileys-MacBook-Air.local (14929)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-30 12:10:54 -0700 Rileys-MacBook-Air.local (14929)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-30 12:10:54 -0700 Rileys-MacBook-Air.local (14929)] INFO : Reading configuration from config/newrelic.yml (/Users/rileyscheid/Desktop/projects/stats_api)
+[2016-05-30 12:10:54 -0700 Rileys-MacBook-Air.local (14929)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-05-30 12:10:54 -0700 Rileys-MacBook-Air.local (14929)] INFO : Environment: development
+[2016-05-30 12:10:54 -0700 Rileys-MacBook-Air.local (14929)] INFO : No known dispatcher detected.
+[2016-05-30 12:10:54 -0700 Rileys-MacBook-Air.local (14929)] INFO : Application: Demo
+[2016-05-30 12:10:54 -0700 Rileys-MacBook-Air.local (14929)] WARN : Agent configured not to send data in this environment.
+[2016-05-30 12:10:54 -0700 Rileys-MacBook-Air.local (14929)] INFO : Installing New Relic supported Grape instrumentation
+[2016-05-30 12:10:54 -0700 Rileys-MacBook-Air.local (14929)] INFO : Installing Net instrumentation
+[2016-05-30 12:10:54 -0700 Rileys-MacBook-Air.local (14929)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-05-30 12:10:54 -0700 Rileys-MacBook-Air.local (14929)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-05-30 12:10:54 -0700 Rileys-MacBook-Air.local (14929)] INFO : Finished instrumentation
+[2016-05-30 12:10:56 -0700 Rileys-MacBook-Air.local (14929)] INFO : Starting the New Relic agent in "development" environment.
+[2016-05-30 12:10:56 -0700 Rileys-MacBook-Air.local (14929)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-05-30 12:10:56 -0700 Rileys-MacBook-Air.local (14929)] INFO : Reading configuration from config/newrelic.yml (/Users/rileyscheid/Desktop/projects/stats_api)
+[2016-05-30 12:10:56 -0700 Rileys-MacBook-Air.local (14929)] INFO : Environment: development
+[2016-05-30 12:10:56 -0700 Rileys-MacBook-Air.local (14929)] INFO : No known dispatcher detected.
+[2016-05-30 12:10:56 -0700 Rileys-MacBook-Air.local (14929)] INFO : Application: Demo
+[2016-05-30 12:10:56 -0700 Rileys-MacBook-Air.local (14929)] WARN : Agent configured not to send data in this environment.
+[2016-05-30 12:10:56 -0700 Rileys-MacBook-Air.local (14929)] INFO : Doing deferred dependency-detection before Rack startup
